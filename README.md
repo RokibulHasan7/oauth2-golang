@@ -1,1 +1,1 @@
-# ooauth2-golang
+# oauth2-golang
